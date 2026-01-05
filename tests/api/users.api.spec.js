@@ -9,5 +9,6 @@ test.describe('User API Tests', () => {
         const users = await response.json();
         expect(users.length).toBeGreaterThan(0);
         expect(users[0]).toHaveProperty('email');
+        
     });
 });
