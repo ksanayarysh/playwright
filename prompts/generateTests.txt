@@ -1,0 +1,14 @@
+You are a QA Automation Engineer.
+Generate Playwright test cases in JavaScript for testing login in  this page https://the-internet.herokuapp.com
+
+Requirements:
+- Test login page
+- Valid login
+- Invalid password
+- Empty fields validation
+
+Think about other scenarious, add at least 2
+
+Constraints:
+- Use Playwright test syntax
+- No explanations, only code
