@@ -1,13 +1,21 @@
-# Playwright JavaScript Demo
+# 🤖 AI-Assisted Playwright Test Automation
 
-This repository demonstrates a structured Playwright setup using
-JavaScript, including UI and API tests.
+This project demonstrates an **AI-forward QA approach** where a Large Language Model (LLM) is used to **generate Playwright test cases from requirements**, while keeping test execution fully deterministic.
 
-## Tech Stack
-- Playwright
-- JavaScript
-- Page Object Model
+AI here is an **assistant**, not a replacement for QA engineers.
 
-## Setup
+---
 
-Install dependencies:
+## 🚀 What This Project Shows
+
+- AI-assisted **test case generation**
+- Deterministic Playwright test execution
+- Secure handling of API keys
+- Clean separation between AI logic and test runtime
+- A realistic, production-friendly setup suitable for CI pipelines
+
+---
+
+
+
+
